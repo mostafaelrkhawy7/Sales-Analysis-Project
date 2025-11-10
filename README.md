@@ -114,7 +114,9 @@ These measures were applied across pivot tables for:
 ---
 
 ## 📸 Dashboard Preview
-![Sales Dashboard](Sales%20Dashboard.png)
+<p align="center">
+  <img src="Sales%20Project.xlsx%20-%20Excel%2011_10_2025%205_42_25%20PM.png" alt="Sales Dashboard" width="900"/>
+</p>
 
 ---
 
